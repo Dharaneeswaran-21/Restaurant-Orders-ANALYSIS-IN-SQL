@@ -1,6 +1,6 @@
 # Restaurant-Orders-ANALYSIS-IN-SQL
 
-One of the SQL projects in Maven analytics for SQL
+One of the SQL projects in Maven analytics 
 
 Description: -
 Analyze order data to identify the most and least popular menu items and types of cuisine
